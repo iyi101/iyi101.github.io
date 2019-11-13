@@ -1,0 +1,64 @@
+body { background-color: burlywood }
+body {font-family: 'Times New Roman', Times, serif;
+background-color: #274461;}
+
+
+h1 {background-color: chocolate;}
+h1 {font-size: 500%;}
+
+p {color: black;}
+p {font-size: 150%;}
+
+a {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+div {border-width: 1px;
+     border-style: dashed;
+     border-color: white;}
+
+
+.lowercase {text-transform: lowercase;}
+
+
+.upercase {text-transform: uppercase;}
+
+
+.right {
+    float: left;
+}
+
+.image {
+    width: 100%;
+}
+
+
+/* #container {width: 80%;
+            margin: 80%;    } */
+
+
+#main {background-color: #85a2a6;
+       width: 80%;
+       margin: auto;}
+
+
+
+#priority {background-color: #78AFCC;
+           color: #301403;
+           width: 75%;
+           text-align: center;
+            margin: auto;
+        clear: both;}
+           
+
+
+#footer {background-color: chocolate;
+  text-align: center; 
+  text-transform: uppercase;
+  font-size: 5o%;
+        
+}
