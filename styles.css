@@ -11,7 +11,7 @@
 .wrapper {
     display: flex;
     flex-direction: column;
-    background: black;
+    background: white;
     justify-content: flex-start;
     object-fit: contain;
     border-radius: 10px;
